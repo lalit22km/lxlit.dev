@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on lxlit.dev</title>
+    <link>https://lxlit.dev/posts/</link>
+    <description>Recent content in Posts on lxlit.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jan 2023 17:12:24 +0530</lastBuildDate><atom:link href="https://lxlit.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://lxlit.dev/posts/mypost/</link>
+      <pubDate>Mon, 30 Jan 2023 17:12:24 +0530</pubDate>
+      
+      <guid>https://lxlit.dev/posts/mypost/</guid>
+      <description>Hello everyone :)</description>
+    </item>
+    
+  </channel>
+</rss>
