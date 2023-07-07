@@ -6,14 +6,24 @@
     <description>Recent content in Posts on lxlit.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jan 2023 17:12:24 +0530</lastBuildDate><atom:link href="https://lxlit.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jul 2023 22:45:15 +0530</lastBuildDate><atom:link href="https://lxlit.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mypost</title>
-      <link>https://lxlit.dev/posts/mypost/</link>
-      <pubDate>Mon, 30 Jan 2023 17:12:24 +0530</pubDate>
+      <title>CDM-Tools/How-To</title>
+      <link>https://lxlit.dev/posts/cdm-tools/how-to/</link>
+      <pubDate>Fri, 07 Jul 2023 22:45:15 +0530</pubDate>
       
-      <guid>https://lxlit.dev/posts/mypost/</guid>
-      <description>Hello everyone :)</description>
+      <guid>https://lxlit.dev/posts/cdm-tools/how-to/</guid>
+      <description>Purpose of this project Hello everyone! Hope all is good. I&amp;rsquo;ve spent the past few months scouring pages just to try and get decryption keys for widevine content. There was no clear instructions on the internet and the instructions that are there need pieced togther for a proper result. What I&amp;rsquo;ve tried to do is condense these fragments down to a cohesive guide for people to follow. If you have any questions feel free to message me on here, my reddit or discord, contact information can be found on my profile.</description>
+    </item>
+    
+    <item>
+      <title>CDM Project</title>
+      <link>https://lxlit.dev/posts/cdm-project/</link>
+      <pubDate>Fri, 07 Jul 2023 22:28:40 +0530</pubDate>
+      
+      <guid>https://lxlit.dev/posts/cdm-project/</guid>
+      <description>The CDM Project The CDM Project was a set of tools and guides used for testing Widevine DRM on multiple websites &amp;amp; platforms. I used it to learn how Widevine works and how I can avoid getting my content easily downloaded.
+The cdm-project.com website has been down for a few months now and I don&amp;rsquo;t think it&amp;rsquo;s coming back up anytime soon. I&amp;rsquo;ll be posting the backup I have. I hope it doesn&amp;rsquo;t get taken down.</description>
     </item>
     
   </channel>
