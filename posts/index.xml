@@ -6,7 +6,30 @@
     <description>Recent content in Posts on lxlit.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jul 2023 22:45:15 +0530</lastBuildDate><atom:link href="https://lxlit.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jul 2023 13:45:01 +0530</lastBuildDate><atom:link href="https://lxlit.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CDM-Tools/Essential-Tools</title>
+      <link>https://lxlit.dev/posts/cdm-tools/essential-tools/</link>
+      <pubDate>Sat, 08 Jul 2023 13:45:01 +0530</pubDate>
+      
+      <guid>https://lxlit.dev/posts/cdm-tools/essential-tools/</guid>
+      <description>Essential Tools I&amp;rsquo;m making this list of tools. It&amp;rsquo;s upto you how you use it.
+Dumper V2 Dumper Downey N_m3u8DL-CLI ONN-Scripts Drm-Dash-stream-downloader pywvpssh pymp4parse vtt-to-srt udemy-dl vdocipher-dl yt-dlp Downey Usage Guide To compile downey for your platform, download the golang installation package from here: https://go.dev/dl/. Make sure that the go executable is added to the PATH variable.
+Next, clone the repo locally and change the directory to the root of the repo.</description>
+    </item>
+    
+    <item>
+      <title>CDM-Tools/Obtaining-PSSH</title>
+      <link>https://lxlit.dev/posts/cdm-tools/obtaining-pssh/</link>
+      <pubDate>Sat, 08 Jul 2023 13:36:36 +0530</pubDate>
+      
+      <guid>https://lxlit.dev/posts/cdm-tools/obtaining-pssh/</guid>
+      <description>Obtaining PSSH Getting started 3 methods to find PSSH:
+The simplest one: PSSH is clearly indicated in MPD file. Download MPD file (browser add-on &amp;ldquo;MPD Detector&amp;rdquo; will give you MPD link or filtering for mpd in the network tab of devoloper tools (ctrl + shift + c)), open it with Notepad, search for pssh value.
+If there is KID, but no PSSH in MPD, calculate PSSH by using KID:
+Using this website you can get the PSSH by entering in the urn:uuid: into the System ID field and entering the cenc:default_KID= into the KEY IDs field without the quotes &amp;quot;&amp;quot;</description>
+    </item>
+    
     <item>
       <title>CDM-Tools/How-To</title>
       <link>https://lxlit.dev/posts/cdm-tools/how-to/</link>
